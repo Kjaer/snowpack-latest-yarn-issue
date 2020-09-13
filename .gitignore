@@ -1,4 +1,6 @@
+.yarn
 .build
+.pnp.js
 build
 web_modules
 node_modules
